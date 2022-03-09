@@ -1,1 +1,1 @@
-# oop-movie-reservation
+# 책 오브젝트 예제 - 영화 예매 시스템
